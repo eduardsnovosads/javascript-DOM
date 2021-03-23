@@ -10,7 +10,7 @@
     <label>Enter your name:</label>
   </p>
 
-  <input type="text" id="full_name">
+  <input type='text' name='fname' class='chatinput' onkeyUp="document.getElementById('greeting').innerHTML = 'Hello there, ' + this.value" />
 
   <p id="greeting"></p>
 </body>

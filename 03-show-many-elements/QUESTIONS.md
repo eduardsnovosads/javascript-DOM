@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+Your reply here... Tas nav viegli, noslēpt elementu nozīmi.
